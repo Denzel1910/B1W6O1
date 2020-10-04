@@ -1,0 +1,41 @@
+body{
+	background-color: #def6ed;
+}
+
+body{
+	font-family: "roboto", sans-serif;
+}
+
+div{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin: 0 auto;
+}
+
+h1{
+	font-size: 36px;
+}
+
+h2{
+	font-size: 32px;
+}
+
+li{
+	font-size: 20px;
+}
+
+ul{
+	margin: 10px;
+}
+
+ol{
+	margin: 20px;
+}
+
+p{
+	font-size: 26px;
+}
+
+img{
+	float: none;
+}
